@@ -1,0 +1,64 @@
+ctrl + S=>  prettierov cody dzel
+
+ctrl + R=>  bacel papka //verji bacvac papkeqic
+
+ctrl + P=>  fail bacel
+
+ctrl + X=>  jnjel toxy
+
+ctrl + C=>  copy
+
+ctrl + V=>  Paste
+
+ctrl + Z=>  mi qayl het //undo
+
+ctrl + T=> bacel, pakel terminaly
+
+ctrl + G=>  ancnel heto verevum nshvox toxi vra
+
+ctrl + K=>  keyworderi nastroika
+
+ctrl + L=>  LiveServer start
+
+ctrl + ,=>  nastroika
+
+ctrl + '=>  poisk
+
+ctrl + /=>  comment
+
+ctrl + NumPad1=>    rejim zen mianal, ajatel
+
+ctrl + NumPad2=>    npm commands
+
+ctrl + NumPad3=>    eCSStractor Run
+
+ctrl + NumPad4=>    bacel papka //Exploleric
+
+ctrl + NumPad5=>    taza terminaly  
+
+ctrl + NumPad6=>    zuyc tal Explolerum    
+
+ctrl + NumPad7=>    fail stexcel 
+
+ctrl + NumPad8=>    papka stexcel
+
+ctrl + NumPad9=>    nshi sax nuyn barery u cursory iranc vra dni
+
+ctrl + NumPad0=>    masshtaby qcel
+
+ctrl + space(probel)=> 	cuyca talis te inch karas gres 
+
+ctrl-y pahac mknikov tanumenq vren cuyca talis ira ssilken 
+
+ctrl + B=> rejim zeny mej bacuma dzax masy vortex failern u papkeqnen
+
+ctrl + W=> hima bacvac patuhany pakuma aysinq faily vory hima bacvaca inchvor patuhanum pakvuma
+
+ctrl + shift + p=> command line
+
+ctrl + I => run python file in terminal
+
+ctrl + left or right arag sharjvel toxer mej
+
+alt + top or bottom texapoxel toxy verev nerqev
+
